@@ -53,7 +53,7 @@ background-image: url("https://d2ezq7t0wj6z8f.cloudfront.net/i26oW46jmTk6NIhmKfL
 
 			#feature, .article {
 
-				height: 15em;
+				height: 60em;
 
 				margin-bottom: 1em;
 
@@ -101,5 +101,10 @@ background-image: url("https://d2ezq7t0wj6z8f.cloudfront.net/i26oW46jmTk6NIhmKfL
         background-color: bisque;
         
 }
+#errorMessages{
+
+color:red;
+}
+
 
  
